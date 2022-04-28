@@ -80,7 +80,7 @@ googleplay -a com.google.android.youtube -v 1528288704
 ## Sponsor
 
 I really need help financially, so if you are able, please donate using the
-sponsor link. If you cannot use Paypal, let me know, and I can see about adding
+sponsor link. If you cannot use PayPal, let me know, and I can see about adding
 other methods. Thank you!
 
 ## API
